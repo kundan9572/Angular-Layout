@@ -1,0 +1,28 @@
+.list {
+  font-weight: 300;
+  font-size: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1em;
+}
+
+.container {
+  height: 100px;
+}
+
+.navigation {
+  padding: 0;
+}
+
+.l1 {
+  padding: 1em;
+}
+
+h1 {
+
+  font-weight: 400;
+  color: black;
+  font-size: 30px;
+}
